@@ -1,4 +1,4 @@
-# Awesome Intercom (Incremental Update)
+# Awesome Intercom
 
 New qualifying forks/branches since the current upstream `awesome-intercom` list:
 - has updates ahead of upstream (Intercom or IntercomSwap)
