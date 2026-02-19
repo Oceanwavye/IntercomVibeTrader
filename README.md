@@ -58,13 +58,13 @@ Already-known forks in upstream README skipped for address export: **17**
 - [tomashorni/intercom](https://github.com/tomashorni/intercom) — Custom Intercom-based fork with app-level changes.
 - [vairushamdan/TRAC-AI-Wallet-Insight-Assistant](https://github.com/vairushamdan/TRAC-AI-Wallet-Insight-Assistant) — An AI-powered on-chain behavior analysis tool built on Trac Network / Intercom stack
 - [X-Prism/intercom-trust](https://github.com/X-Prism/intercom-trust) — A P2P reputation system for the Trac Network Intercom ecosystem. Peers rate each other (1-5 stars) after interactions, with ratings stored i
-- [xspace-lab/intercom @ `AI-TRADING-ARENA`](https://github.com/xspace-lab/intercom) — Real-time AI trading tournament platform powered by IntercomSwap
-- [xspace-lab/intercom @ `CryptoPortfolio`](https://github.com/xspace-lab/intercom) — AI-Powered Crypto Trading Assistant built on IntercomSwap
-- [xspace-lab/intercom @ `Game-HubPro`](https://github.com/xspace-lab/intercom) — AI-Powered Battle Arena with IntercomSwap Integration
-- [xspace-lab/intercom @ `GameFi-Hub`](https://github.com/xspace-lab/intercom) — A multiplayer blockchain gaming arena where humans and AI agents battle, earn crypto, and trade NFTs in real-time
-- [xspace-lab/intercom @ `Mood-Tracker`](https://github.com/xspace-lab/intercom) — An AI-powered mental wellness companion built on Intercom
-- [xspace-lab/intercom @ `StudyBuddy`](https://github.com/xspace-lab/intercom) — Your AI Tutor & Study Companion built on Intercom + IntercomSwap
-- [xspace-lab/intercom @ `Task-Keeper`](https://github.com/xspace-lab/intercom) — An AI-powered personal task and reminder manager built on Intercom
+- [xspace-lab/intercom @ `AI-TRADING-ARENA`](https://github.com/xspace-lab/intercom/tree/AI-TRADING-ARENA) — Real-time AI trading tournament platform powered by IntercomSwap
+- [xspace-lab/intercom @ `CryptoPortfolio`](https://github.com/xspace-lab/intercom/tree/CryptoPortfolio) — AI-Powered Crypto Trading Assistant built on IntercomSwap
+- [xspace-lab/intercom @ `Game-HubPro`](https://github.com/xspace-lab/intercom/tree/Game-HubPro) — AI-Powered Battle Arena with IntercomSwap Integration
+- [xspace-lab/intercom @ `GameFi-Hub`](https://github.com/xspace-lab/intercom/tree/GameFi-Hub) — A multiplayer blockchain gaming arena where humans and AI agents battle, earn crypto, and trade NFTs in real-time
+- [xspace-lab/intercom @ `Mood-Tracker`](https://github.com/xspace-lab/intercom/tree/Mood-Tracker) — An AI-powered mental wellness companion built on Intercom
+- [xspace-lab/intercom @ `StudyBuddy`](https://github.com/xspace-lab/intercom/tree/StudyBuddy) — Your AI Tutor & Study Companion built on Intercom + IntercomSwap
+- [xspace-lab/intercom @ `Task-Keeper`](https://github.com/xspace-lab/intercom/tree/Task-Keeper) — An AI-powered personal task and reminder manager built on Intercom
 - [yunamilanita-eng/intercom](https://github.com/yunamilanita-eng/intercom) — Custom Intercom-based fork with app-level changes.
 - [zkbintang/star-escrow-finance](https://github.com/zkbintang/star-escrow-finance) — A CLI-based escrow lifecycle engine built on Intercom architecture
 
