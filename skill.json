@@ -1,0 +1,23 @@
+{
+  "agent_id": "vibe_trader_01",
+  "name": "IntercomSwap VibeTrader",
+  "version": "1.0.0",
+  "description": "An automated trading agent that executes swaps on IntercomSwap based on social sentiment and liquidity metrics.",
+  "developer_address": "trac1nfwcfnp8vqg2qndh43mg5ls486d87ae2h50cfpku8qgy0lfxgzqq92xw02",
+  "capabilities": [
+    "intercom_swap_routing",
+    "sentiment_analysis",
+    "liquidity_monitoring"
+  ],
+  "instructions": [
+    "1. Monitor target tokens on the Trac Network for sudden spikes in positive sentiment.",
+    "2. If the vibe score exceeds 0.85, query IntercomSwap for the deepest liquidity pool.",
+    "3. Execute the swap transaction ensuring slippage does not exceed 1%.",
+    "4. Report the transaction hash back to the user interface."
+  ],
+  "permissions": {
+    "can_sign_transactions": true,
+    "max_spend_limit_per_tx": "1000",
+    "allowed_protocols": ["IntercomSwap"]
+  }
+}
